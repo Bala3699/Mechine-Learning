@@ -1,4 +1,12 @@
+import kagglehub
+path = kagglehub.dataset_download("sid321axn/malicious-urls-dataset")
+import os
+import pandas as pd
 
+# Download dataset
+path = kagglehub.dataset_download("sid321axn/malicious-urls-dataset")
+
+print("Dataset downloaded to:", path)
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer(max_features=5000)
 X_vec = vectorizer.fit_transform(X)
