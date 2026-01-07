@@ -7,6 +7,16 @@ import pandas as pd
 path = kagglehub.dataset_download("sid321axn/malicious-urls-dataset")
 
 print("Dataset downloaded to:", path)
+import pandas as pd
+import os
+
+dataset_path = os.path.join(path, 'malicious_phish.csv') # Assuming the CSV file is named malicious_phish.csv inside the downloaded directory
+df = pd.read_csv(dataset_path)
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score, classification_report
+
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer(max_features=5000)
 X_vec = vectorizer.fit_transform(X)
