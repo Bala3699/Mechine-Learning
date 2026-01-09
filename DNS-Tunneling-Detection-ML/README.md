@@ -4,7 +4,7 @@
 
 DNS tunneling is a stealthy attack technique used by malware and attackers to exfiltrate data and maintain command-and-control (C2) communication by embedding malicious payloads inside DNS queries and responses.
 
-This project applies **Machine Learning algorithms** to detect **malicious DNS tunneling traffic** using real-world network flow data from the **CIC dataset**.
+This project applies **Machine Learning algorithms** to detect **malicious DNS tunneling traffic** using real-world network flow data from the **CIC dataset - 2018**.
 
 ---
 
