@@ -139,7 +139,7 @@ scikit-learn
 
 ## 👨‍💻 Author
 
-**Balamutugan**
+**Balamurugan**
 B.Tech CSE (Cybersecurity Enthusiast)
 
 ---
