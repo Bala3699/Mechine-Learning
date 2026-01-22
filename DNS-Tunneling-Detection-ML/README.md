@@ -126,7 +126,7 @@ python dns_tunneling_ml.py
 
 ## 👨‍💻 Author
 
-**Balamutugan**
+**Balamurugan**
 Cybersecurity | Ethical Hacking | Machine Learning
 
 ---
