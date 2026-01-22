@@ -43,7 +43,7 @@ python src/ddos_detection.py
 -  Normal Traffic → 0
 -  DDoS Traffic → 1
 
-#Author
+# Author
 
 Balamurugan
 B.Tech Computer Science & Engineering 
