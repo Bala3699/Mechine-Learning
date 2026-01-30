@@ -74,11 +74,12 @@ The system includes a **Tkinter-based GUI** for interaction:
   Forgot Password feature via **QR-based OTP**.
 
 **Screenshot Placeholder:**
-```
 
-![GUI Screenshot](./assets/gui_screenshot.png)
+![assest](https://github.com/Bala3699/Mechine-Learning/blob/main/Cyber%20Attack%20Behavior%20Prediction%20System/assest/Screenshot%202026-01-30%20142741.png)
+![assest](https://github.com/Bala3699/Mechine-Learning/blob/main/Cyber%20Attack%20Behavior%20Prediction%20System/assest/Screenshot%202026-01-28%20221849.png)
+![assest](https://github.com/Bala3699/Mechine-Learning/blob/main/Cyber%20Attack%20Behavior%20Prediction%20System/assest/Screenshot%202026-01-30%20142809.png)
 
-````
+
 
 ---
 
